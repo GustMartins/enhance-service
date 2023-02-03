@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# SAM deploy files
+sam.json
+sam.yaml
+
+# Enhance build files
+.enhance
